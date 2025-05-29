@@ -144,7 +144,7 @@ A continuación se muestran los esquemas generales del sistema:
 - **Modelo de datos**: relaciones entre entidades principales (usuarios, ítems, recomendaciones).
 - **Arquitectura general**: interacción entre microservicios, gateway y discovery server.
 
-> 
+![Diagrama de microservicios](images/final-micros.png)
 
 ---
 
