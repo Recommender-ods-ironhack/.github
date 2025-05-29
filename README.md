@@ -167,6 +167,6 @@ A continuación se muestran los esquemas generales del sistema:
 ##  Futuras mejoras
 
 - Extraer enums (como `EStyle`, `ESize`) a una **librería compartida** entre microservicios
--  Permitir búsqueda más flexible/tolerante en parámetros (`color=gren` → `green`)
+-  Permitir búsqueda más flexible en parámetros (`color=gren` → `green`)
 -  Implementar `JpaSpecificationExecutor` en `clothing-item-service` para búsquedas más potentes y combinadas
 
