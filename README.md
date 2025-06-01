@@ -2,6 +2,8 @@
 
 En proyecto se ha creado un sistema de recomendación de prendas de ropa, utilizando una arquitectura de **microservicios**. Cada microservicio está enfocado en una responsabilidad específica, y se comunican entre ellos utilizando **Feign Clients** y **Eureka Server**.
 
+[Ver presentación del proyecto](https://www.canva.com/design/DAGo1-UAdHk/5bVdjAWgm_rAXS54QhRuRw/view?utm_content=DAGo1-UAdHk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h26799c08f6)
+
 ---
 
 ## Estructura del Proyecto
